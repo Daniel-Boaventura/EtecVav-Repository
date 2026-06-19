@@ -1,7 +1,7 @@
 //Daniel M. Boaventura
 // 19.06.2026
 //Oque o Programa Faz:
-//Soma números ímpares até um número
+//palíndromo
 
 
 #include <stdio.h>
