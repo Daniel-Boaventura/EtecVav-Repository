@@ -27,3 +27,8 @@ int main() {
     if(sexo == 'M' || sexo == 'm') {
         printf("Peso ideal: %.2f\n", pesoMasculino(altura));
     } else {
+        printf("Peso ideal: %.2f\n", pesoFeminino(altura));
+    }
+
+    return 0;
+}
