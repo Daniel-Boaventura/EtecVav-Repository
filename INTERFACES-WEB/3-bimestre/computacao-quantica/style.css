@@ -1,0 +1,67 @@
+body {
+    background-color: #ebebeb !important;
+
+h1 {
+    
+
+}
+p {
+  transition: 0.5s;
+}
+
+p.p1 {
+  margin: auto;
+  background-color: #ffffff;
+  width: 90%;
+  padding: 30px 30px;
+  transition: 1s;
+}
+
+p.p1:hover {
+  transform: scale(1.01);
+}
+
+p.by {
+  text-decoration: underline;
+  color: #ffffff;
+  padding: 10px;
+  background-color: #aadafd;
+  font-size: 15px;
+  text-align: center;
+  margin: auto;
+}
+
+p.by:hover {
+  transform: scale(1.01);
+}
+
+.mini-card {
+    transition: 0.5s;
+}
+
+.mini-card:hover {
+    transform: scale(1.05);
+}
+
+h1.tituloprincipal {
+    color: #000000;
+    background-color: #f1b8ff;
+    text-align: center;
+    padding: 25px;
+    width: 80%;
+    margin: 30px auto;
+    border-radius: 25px;
+}
+
+h2.titulo1 {
+
+  color: #000000;
+  background-color: hsl(247, 90%, 88%);
+  text-align: center;
+  padding: 25px;
+  width: 20%;
+  margin: 30px auto;
+  border-radius: 25px;
+}
+
+}
